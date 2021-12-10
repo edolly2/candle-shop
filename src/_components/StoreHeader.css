@@ -1,0 +1,38 @@
+.store {
+}
+
+.store--header {
+}
+
+.store--header_bar {
+  text-align: center;
+  background-color: blue;
+  font-style: italic;
+  font-size: 2rem;
+  padding: 0.4rem 0;
+}
+
+.free-shipping {
+  font-weight: 900;
+  text-decoration: underline;
+}
+
+.store--header_icon-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3.2rem;
+}
+
+.store--header_icons {
+  display: flex;
+  gap: 1.6rem;
+}
+
+.icons {
+  font-size: 2.4rem;
+}
+
+.icons:hover {
+  cursor: pointer;
+}
